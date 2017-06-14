@@ -1,0 +1,43 @@
+{
+  "_from": "git+ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git",
+  "_id": "html-separate-publickpath-webpack-plugin@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha1-s5k+xp6walYN5lZBOvDGwbik/yk=",
+  "_location": "/html-separate-publickpath-webpack-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git",
+    "rawSpec": "git+ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git",
+    "saveSpec": "git+ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git",
+    "fetchSpec": "ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git#80296afdf4edceafeebf1e05ac3999fa14a1f85e",
+  "_spec": "git+ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git",
+  "_where": "/Users/ob/webpack_test/test1",
+  "author": {
+    "name": "oldbin"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "deprecated": false,
+  "description": "test",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "html-separate-publickpath-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:old-bin/html-separate-publickpath-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.4"
+}
